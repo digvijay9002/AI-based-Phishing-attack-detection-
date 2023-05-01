@@ -29,11 +29,11 @@ Software requirements
 
 Common Techniques to detect phishing attack: 
 
- (1) Content analysis
- (2) Sender analysis
- (3) URL analysis
- (4) Behavioural analysis
- (5) Machine learning
+ - Content analysis
+ - Sender analysis
+ - URL analysis
+ - Behavioural analysis
+ - Machine learning
 
 
 
